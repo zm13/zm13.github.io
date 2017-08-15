@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Academic</title>
+    <link>http://zm13.github.io/tags/</link>
+    <description>Recent content in Tags on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zachary Maas</copyright>
+    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chlorine</title>
+      <link>http://zm13.github.io/tags/chlorine/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/tags/chlorine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

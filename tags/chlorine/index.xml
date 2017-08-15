@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chlorine on Academic</title>
+    <link>http://zm13.github.io/tags/chlorine/</link>
+    <description>Recent content in Chlorine on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zachary Maas</copyright>
+    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/chlorine/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chlorine</title>
+      <link>http://zm13.github.io/project/chlorine/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/project/chlorine/</guid>
+      <description>&lt;p&gt;My dissertation research focuses on the origin and evolution of two poorly studied odd, light elements chlorine (Cl) and phosphorus (P) in the Galaxy. Chlorine is an important element for life yet the abundance of Cl in the Milky Way are poorly known. Predictions have been made for how chlorine can form in massive stars, in evolved stars, and even possibly be affected by neutrinos during a supernova explosion; however, without measurements these predictions cannot be tested. Chlorine has been difficult to measure because it has a low abundance and no accessible atomic transitions. Instead, HCl features located in the infrared L-band, that only form in stars cooler than ~4000 K, can be used to determine chlorine abundances.&lt;/p&gt;
+
+&lt;p&gt;With my collaborators, I made the first abundance measurements of chlorine in a stellar photosphere. We observed 15 giants and one M-Dwarf using the high resolution infrared spectrometer, Phoenix, on the Mayall 4m telescope at Kitt Peak. Abundance determinations were done by comparing synthetic spectra to our observations. We found [$^{35}$Cl/Fe] measurements are consistent with the slope ([Cl/Fe] vs [Fe/H]) of Galactic chemical evolution models from but show on average a higher [$^{35}$Cl/Fe] abundances than predicted by 0.16 dex. This offset is also seen in [$^{35}$Cl/Ca] and [$^{35}$Cl/Si] where chlorine is offset by $\sim$0.35 dex compared to chemical evolution models. An additional processes producing chlorine may be necessary to explain the overabundance of Cl compared to predictions. The $\nu$ process, or neutrino spallation, may affect Cl production and should be considered. Finally, we found an isotope ratio of $^{35}$Cl/$^{37}$Cl=2.2$\pm$0.4 in our one star that matches measurements made in the interstellar medium.  Further work is necessary to understand chlorine nucleosynthesis and evolution in the galaxy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phosphorus</title>
+      <link>http://zm13.github.io/project/phosphorus/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/project/phosphorus/</guid>
+      <description>&lt;p&gt;Phosphorus is an important element for the development of life, yet their is uncertainty in its cosmic origins. It is thought to be made during hydrostatic carbon burning during the life-time of massive stars. However, measurements made in stars don&amp;rsquo;t match chemical evolution models predicting phosphorus abundances in the Galaxy.&lt;/p&gt;
+
+&lt;p&gt;To further constrain the deviations from chemical evolution models and understand the production sites of phosphorus we have measured the atomic phosphorus feature at 1.06 $\mu$m in 22 thin disk stars using the Phoenix instrument with the Mayall 4m telescope. Our abundances derived from P infrared features agree with the results of previous studies and find phosphorus models underestimate abundances measured in the thin disk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

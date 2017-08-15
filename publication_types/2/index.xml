@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Academic</title>
+    <link>http://zm13.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zachary Maas</copyright>
+    <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Phosphorus Abundances in FGK Stars</title>
+      <link>http://zm13.github.io/publication/phos/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/publication/phos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlorine Abundances in Cool Stars</title>
+      <link>http://zm13.github.io/publication/chlorine/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/publication/chlorine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
