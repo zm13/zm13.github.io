@@ -10,6 +10,15 @@
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
+        <item>
+      <title> Chlorine Isotope Ratios in M Giants</title>
+      <link>http://zm13.github.io/publication/chlorine_isotopes/</link>
+      <pubDate>Tue, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://zm13.github.io/publication/chlorine_isotopes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Phosphorus Abundances in FGK Stars</title>
       <link>http://zm13.github.io/publication/phos/</link>
